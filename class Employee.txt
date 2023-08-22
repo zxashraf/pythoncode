@@ -1,0 +1,9 @@
+class Employee:
+    Employeeid:int
+    Employeename:str
+    Employeeage:int
+    Employeequalification:str
+    employeeposition:str
+
+   setEmployee()
+    getEmployee()

@@ -1,0 +1,5 @@
+> git clone => exact copy from remote repository to local system
+
+> git push => changes in local system to remote repository
+
+> git pull => changes in remote repository to local system
